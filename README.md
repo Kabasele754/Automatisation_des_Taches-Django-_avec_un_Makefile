@@ -1,4 +1,4 @@
-# Guide Complet pour Gérer un Projet Django avec Makefile
+# Automatisation des Tâches Django avec un Makefile
 
 Ce guide vous explique comment automatiser la gestion de votre projet Django à l'aide d'un `Makefile`. Nous allons couvrir la création du projet, la gestion des environnements virtuels, et l'exécution des tâches courantes.
 
